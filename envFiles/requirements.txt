@@ -1,0 +1,10 @@
+jupyterlab
+notebook
+h5py
+scipy
+pandas
+matplotlib
+torch
+hampel
+tqdm
+scikit-learn==1.3.2
