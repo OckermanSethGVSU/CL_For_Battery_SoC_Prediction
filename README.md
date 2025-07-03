@@ -1,7 +1,7 @@
 ## Exploring Selective Continuous Learning for Battery State of Charge Prediction in Real-World Dynamic Charging Scenarios
 
 
-This repo contains the code associated with the paper [Exploring Selective Continuous Learning for Battery State of Charge Prediction in Real-World Dynamic Charging Scenarios](TODO_ONCE_PUBLISHED).
+This repo contains the code associated with the paper [Exploring Selective Continuous Learning for Battery State of Charge Prediction in Real-World Dynamic Charging Scenarios](https://doi.org/10.1016/j.jpowsour.2025.237418).
 
  This repo is a cleaned version of the code used in the paper, enabling easy reproducibility and future extensions. Feel free to modify use/modify the code for your specific use case. 
 
@@ -67,6 +67,17 @@ If any of our code was helpful to you or if you compare to our results, please c
 
 
 ```
-Add once available 
+@article{Ockerman2025_Exploring,
+title = {Exploring selective continuous learning for battery state of charge prediction in real-world dynamic charging scenarios},
+journal = {Journal of Power Sources},
+volume = {653},
+pages = {237418},
+year = {2025},
+issn = {0378-7753},
+doi = {https://doi.org/10.1016/j.jpowsour.2025.237418},
+url = {https://www.sciencedirect.com/science/article/pii/S0378775325012546},
+author = {Seth Ockerman and Olesia Elfimova and Harsh Sapra and Sage Kokjohn and Justin Shumaker and Shivaram Venkataraman},
+keywords = {Capacity prediction, Fast-charging, State-of-charge prediction, Machine learning, Continuous learning},
+}
 
 ```
